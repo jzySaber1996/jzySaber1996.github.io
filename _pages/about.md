@@ -14,5 +14,5 @@ My major research directions are knowledge extraction and analysis, software sec
 - From 2015~2019, I was studying Xiamen University (XMU), and got my bachelor degree in Software Engineering (School of Software).
 - From 2019~Now, I am studying in ISCAS, advised by Prof. Qing Wang (Senior Researcher).
 
-Major Achievement
+Latest News
 ======
