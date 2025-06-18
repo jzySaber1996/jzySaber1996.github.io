@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ziyou Jiang / Ph.D, Postdoctoral Researcher"
+title                    : "Ziyou Jiang / Postdoctoral Researcher"
 title_separator          : "-"
 name                     : &name "Ziyou Jiang"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ziyou Jiang"
   avatar           : "ziyou_profile.jpg"
-  bio              : "Ph.D. Student in Institute of Software, Chinese Academy of Sciences (ISCAS)"
+  bio              : "Postdoctoral Researcher in Institute of Software, Chinese Academy of Sciences (ISCAS)"
   location         : "Beijing, China"
   employer         :
   pubmed           :
