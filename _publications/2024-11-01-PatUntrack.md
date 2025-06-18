@@ -12,4 +12,4 @@ PatUntrack aims to generate the potential patch examples for issue reports with 
 
 [Download paper here](https://doi.org/10.1145/3691620.3694982)
 
-Recommended citation: Ziyou Jiang, Lin Shi, Guowei Yang, Qing Wang: PatUntrack: Automated Generating Patch Examples for Issue Reports without Tracked Insecure Code. <i>ASE 2024 </i>. 1-13.
+_**Recommended citation:** Ziyou Jiang, Lin Shi, Guowei Yang, Qing Wang: PatUntrack: Automated Generating Patch Examples for Issue Reports without Tracked Insecure Code. <i>ASE 2024 </i>. 1-13._
