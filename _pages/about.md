@@ -32,16 +32,17 @@ as well as the security in AIGC-generated multimodal elements.
 
 ## Awards
 
-- 2025, SAC Highlights Award, ACL 2025
+- 2025, Excellent Poster Award, ISCAS Academic Annual Conference (中科院软件所学术年会优秀海报奖)
+- 2025, SAC Highlights Award, ACL 2025 (CCF-A, Core A*, NLP Top Conference)
 - 2025, Outstanding Scholarship for President of the Chinese Academy of Sciences (中科院院长优秀奖)
-- 2021-22, Three Good Students of University of Chinese Academy of Sciences (中国科学院大学三好学生)
-- 2023-24, Three Good Students of University of Chinese Academy of Sciences (中国科学院大学三好学生)
-- 2021, ACM Distinguished Paper Award, ASE 2021
-- 2017, The Chinese University Student’s Service Outsourcing Innovation and Entrepreneurship Competition (中国大学生服务外包大赛): Team Status 200, National Third Prize
-- 2017, The Chinese University Student’s Mathematical Modeling Competition (中国大学生数学建模大赛): Fujian Province’s Second Prize
-- 2018, XMU Huabin QIU Scholarship (厦门大学邱华炳奖学金), XMU Anniversary Celebration
-- 2017, XMU Academic First-Class Scholarship (厦门大学学业优秀一等奖学金)
-- 2017, XMU Academic Innovation Scholarship (厦门大学学术创新奖学金)
+- 2024, Three Good Students, University of Chinese Academy of Sciences (中国科学院大学三好学生)
+- 2022, Three Good Students, University of Chinese Academy of Sciences (中国科学院大学三好学生)
+- 2021, ACM Distinguished Paper Award, ASE 2021 (CCF-A, Core A*, SE Top Conference)
+- 2017, National Third Prize, The Chinese University Student’s Service Outsourcing Innovation and Entrepreneurship Competition: Team Leader of Status 200 (中国大学生服务外包大赛全国三等奖)
+- 2017, Fujian Province’s Second Prize, The Chinese University Student’s Mathematical Modeling Competition (中国大学生数学建模大赛福建省二等奖)
+- 2018, Hua-Bin QIU Scholarship, Xiamen University Anniversary Celebration (厦门大学邱华炳奖学金)
+- 2017, Academic First-Class Scholarship, Xiamen University (厦门大学学业优秀一等奖学金)
+- 2017, Academic Innovation Scholarship, Xiamen University (厦门大学学术创新奖学金)
 
 ## Social Activities
 
