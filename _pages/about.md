@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Home Page"
+title: "Ziyou Jiang's Profile"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -37,6 +37,7 @@ as well as the security in AIGC-generated multimodal elements.
 - 2025, Outstanding Scholarship for President of the Chinese Academy of Sciences (中科院院长优秀奖)
 - 2024, Three Good Students, University of Chinese Academy of Sciences (中国科学院大学三好学生)
 - 2022, Three Good Students, University of Chinese Academy of Sciences (中国科学院大学三好学生)
+- 2021, Representative Accomplishments, ISCAS Academic Annual Conference (中科院软件所学术年会代表性成果)
 - 2021, ACM Distinguished Paper Award, ASE 2021 (CCF-A, Core A*, SE Top Conference)
 - 2017, National Third Prize, The Chinese University Student’s Service Outsourcing Innovation and Entrepreneurship Competition: Team Leader of Status 200 (中国大学生服务外包大赛全国三等奖)
 - 2017, Fujian Province’s Second Prize, The Chinese University Student’s Mathematical Modeling Competition (中国大学生数学建模大赛福建省二等奖)
@@ -59,6 +60,8 @@ To be honest, I think the researchers need to be happy and enthusiastic, not alw
 
 Latest News
 ======
-- Our research on the information-theft attack in LLM tool-learning system is accepted by **_ACL'25 Main Conference_**!! (AutoCMD).
+- Our research on LLM jailbreak in multi-turn dialogue  is accepted by **_EMNLP'25 Finding_**!
+- Our research on the parameter filling in LLM tool-learning system is accepted by **_EMNLP'25 Finding_**!
+- Our research on the information-theft attack in LLM tool-learning system is awarded SAC Highlights Award by **_ACL'25_**!
 - I'm working on the National Key Research and Development Projects, i.e., Security Risks in AIGC-Generated Multimodal Contents.
 - I'm working on the automated threat modeling for LLM tool-learning systems and MCP, cuz it is too difficult via the human designing.

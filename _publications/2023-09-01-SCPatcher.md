@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "SCPatcher: Mining Crowd Security Discussions to Enrich Secure Coding Practices"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2023-09-23-SCPatcher
+excerpt: 'SCPatcher is an automated approach to mine secure/insecure coding practices in the Stack Overflow, which aims to warn the potential threat in the OSS.'
+date: 2023-09-23
+venue: 'ASE 2023'
+paperurl: 'https://doi.org/10.1109/ASE56229.2023.00040'
+citation: 'SCPatcher: Mining Crowd Security Discussions to Enrich Secure Coding Practices. <i>ASE 2023 </i>. 358-370.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+SCPatcher is an automated approach to mine secure/insecure coding practices in the Stack Overflow, which aims to warn the potential threat in the OSS.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://doi.org/10.1109/ASE56229.2023.00040)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+_**Recommended citation:** SCPatcher: Mining Crowd Security Discussions to Enrich Secure Coding Practices. <i>ASE 2023 </i>. 358-370._

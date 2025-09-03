@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Ziyou Jiang's Publications"
 permalink: /publications/
 author_profile: true
 ---
