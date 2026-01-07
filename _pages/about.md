@@ -38,13 +38,15 @@ ACM Distinguished Paper Award</span>. [[Paper]](https://doi.org/10.1109/ASE51524
 
 [6] **Ziyou Jiang**, Lin Shi, Celia Chen, Jun Hu, Qing Wang: Dialogue Disentanglement in Software Engineering: How Far are We? IJCAI 2021: 3822-3828. [[Paper]](https://https://www.ijcai.org/proceedings/2021/526)
 
-[7] Qian Xiong and Yuekai Huang, **Ziyou Jiang**, Zhiyuan Chang, Yu Zheng, Tianhao Li, Mingyang Li: Butterfly Effects in Toolchains: A Comprehensive Analysis of Failed Parameter Filling in LLM Tool-Agent Systems. EMNLP 2025. [[Arxiv]](https://doi.org/10.48550/arXiv.2507.15296) [[Paper]](https://doi.org/10.48550/arXiv.2507.15296)
+[7] Yujia Zheng, Tianhao Li, Haotian Huang, Tianyu Zeng, Jingyu Lu, Chuangxin Chu, Yuekai Huang, **Ziyou Jiang**, Qian Xiong, Yuyao Ge, Mingyang Li: Are All Prompt Components Value-Neutral? Understanding the Heterogeneous Adversarial Robustness of Dissected Prompt in LLMs. EACL 2026. (Just Accept)
 
-[8] Zhiyuan Chang, Mingyang Li, Xiaojun Jia, Junjie Wang, Yuekai Huang, **Ziyou Jiang**, Yang Liu, Qing Wang: One Shot Dominance: Knowledge Poisoning Attack on Retrieval-Augmented Generation Systems. EMNLP 2025. [[Arxiv]](https://doi.org/10.48550/arXiv.2505.11548) [[Paper]](https://doi.org/10.48550/arXiv.2505.11548)
+[8] Qian Xiong and Yuekai Huang, **Ziyou Jiang**, Zhiyuan Chang, Yu Zheng, Tianhao Li, Mingyang Li: Butterfly Effects in Toolchains: A Comprehensive Analysis of Failed Parameter Filling in LLM Tool-Agent Systems. EMNLP 2025. [[Arxiv]](https://doi.org/10.48550/arXiv.2507.15296) [[Paper]](https://doi.org/10.48550/arXiv.2507.15296)
 
-[9] Lin Shi, Xiao Chen, Ye Yang, Hanzhi Jiang, **Ziyou Jiang**, Nan Niu, Qing Wang: A first look at developers' live chat on Gitter. ESEC/SIGSOFT FSE 2021: 391-403. [[Paper]](https://doi.org/10.1145/3468264.3468562)
+[9] Zhiyuan Chang, Mingyang Li, Xiaojun Jia, Junjie Wang, Yuekai Huang, **Ziyou Jiang**, Yang Liu, Qing Wang: One Shot Dominance: Knowledge Poisoning Attack on Retrieval-Augmented Generation Systems. EMNLP 2025. [[Arxiv]](https://doi.org/10.48550/arXiv.2505.11548) [[Paper]](https://doi.org/10.48550/arXiv.2505.11548)
 
-[10] Lin Shi, Fangwen Mu, Yumin Zhang, Ye Yang, Junjie Chen, Xiao Chen, Hanzhi Jiang, **Ziyou Jiang**, Qing Wang: BugListener: Identifying and Synthesizing Bug Reports from Collaborative Live Chats. ICSE 2022: 299-311. [[Paper]](https://doi.org/10.1145/3510003.3510108)
+[10] Lin Shi, Xiao Chen, Ye Yang, Hanzhi Jiang, **Ziyou Jiang**, Nan Niu, Qing Wang: A first look at developers' live chat on Gitter. ESEC/SIGSOFT FSE 2021: 391-403. [[Paper]](https://doi.org/10.1145/3468264.3468562)
+
+[11] Lin Shi, Fangwen Mu, Yumin Zhang, Ye Yang, Junjie Chen, Xiao Chen, Hanzhi Jiang, **Ziyou Jiang**, Qing Wang: BugListener: Identifying and Synthesizing Bug Reports from Collaborative Live Chats. ICSE 2022: 299-311. [[Paper]](https://doi.org/10.1145/3510003.3510108)
 
 
 ## Referee
@@ -63,11 +65,13 @@ ACM Distinguished Paper Award</span>. [[Paper]](https://doi.org/10.1109/ASE51524
 
 ## Project
 
-- 2024, National Key Research and Development Projects of China, i.e., Security Risks in AIGC-Generated Multimodal Contents. Project Secretary, Core R&D Personnel
+- 2025, Postdoctoral Overseas Academic Exchange Program
+- 2024, National Key Research and Development Projects of China, i.e., Security Risks in AIGC-Generated Multimodal Contents, Project Secretary, Core R&D Personnel
 - 2021, Huawei Poplar Forest Fund, Core R&D Personnel
 
 ## Award
 
+- 2025, Third Prize of National Prototype System Competition (SEAutoCMD), Chinasoft 2025 (中国软件大会原型系统竞赛全国三等奖)
 - 2025, Excellent Poster Award, ISCAS Academic Annual Conference (中科院软件所学术年会优秀海报奖)
 - 2025, SAC Highlights Award, ACL 2025 (CCF-A, Core A*, NLP Top Conference)
 - 2025, Outstanding Scholarship for President of the Chinese Academy of Sciences (中国科学院院长优秀奖学金)
@@ -75,9 +79,9 @@ ACM Distinguished Paper Award</span>. [[Paper]](https://doi.org/10.1109/ASE51524
 - 2022, Three Good Students, University of Chinese Academy of Sciences (中国科学院大学三好学生)
 - 2021, Representative Accomplishments, ISCAS Academic Annual Conference (中科院软件所学术年会代表性成果)
 - 2021, ACM Distinguished Paper Award, ASE 2021 (CCF-A, Core A*, SE Top Conference)
+- 2018, Hua-Bin QIU Scholarship, Xiamen University Anniversary Celebration (厦门大学邱华炳奖学金)
 - 2017, National Third Prize, The Chinese University Student’s Service Outsourcing Innovation and Entrepreneurship Competition: Team Leader of Status 200 (中国大学生服务外包大赛全国三等奖)
 - 2017, Fujian Province’s Second Prize, The Chinese University Student’s Mathematical Modeling Competition (中国大学生数学建模大赛福建省二等奖)
-- 2018, Hua-Bin QIU Scholarship, Xiamen University Anniversary Celebration (厦门大学邱华炳奖学金)
 - 2017, Academic First-Class Scholarship, Xiamen University (厦门大学学业优秀一等奖学金)
 - 2017, Academic Innovation Scholarship, Xiamen University (厦门大学学术创新奖学金)
 
@@ -109,7 +113,8 @@ To be honest, I think the researchers need to be happy and enthusiastic, not alw
 
 Latest News
 ======
-- Our research on LLM jailbreak in multi-turn dialogue  is accepted by **_EMNLP'25 Finding_**!
+- Our research on prompt component's quality is accepted by **_EACL'26 Oral_**!
+- Our research on LLM jailbreak in multi-turn dialogue is accepted by **_EMNLP'25 Finding_**!
 - Our research on the parameter filling in LLM tool-learning system is accepted by **_EMNLP'25 Finding_**!
 - Our research on the information-theft attack in LLM tool-learning system is awarded SAC Highlights Award by **_ACL'25_**!
 - I'm working on the National Key Research and Development Projects, i.e., Security Risks in AIGC-Generated Multimodal Contents.
