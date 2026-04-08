@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="adc3bc28-f3c3-4b83-91a6-00bf1281e354" name="172.16.16.117">
+        <fileTransfer rootFolder="/newdisk/public" accessType="SFTP" host="172.16.16.117" port="22" sshConfigId="ac23add0-fd6e-46c1-b924-9b9bdf60008f" sshConfig="iscas-pub@172.16.16.117:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
