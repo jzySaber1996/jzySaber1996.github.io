@@ -57,8 +57,8 @@ redirect_from:
 
 ## Projects
 
-- 2026: National-Funded Postdoctoral Researcher Program, Category C
-- 2026: China Postdoctoral Science Foundation, General Program
+- 2026: Postdoctoral Fellowship Program and China Postdoctoral Science Foundation (C)
+- 2026: China Postdoctoral Science Foundation
 - 2025: China Postdoctoral Science Foundation, International Academic Exchange Program
 - 2024: National Key Research and Development Program of China, "Security Risks in AIGC-Generated Multimodal Content," Project Secretary and Core R&D Personnel
 - 2021: Huawei Poplar Forest Fund, Core R&D Personnel
