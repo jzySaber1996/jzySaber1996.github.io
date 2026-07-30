@@ -1,34 +1,31 @@
 ---
 layout: archive
-permalink: /
-title: "Research Profile"
-excerpt: "Postdoctoral Researcher in Software Engineering"
+permalink: /zh/
+title: "中文简历"
+excerpt: "软件工程博士后研究人员"
 author_profile: true
-lang: en
-redirect_from:
-  - /about/
-  - /about.html
+lang: zh-CN
 ---
 
 <div class="profile-lead">
-  <p>I am a Postdoctoral Researcher at the State Key Laboratory of Intelligent Game, Institute of Software, Chinese Academy of Sciences (ISCAS). My research focuses on crowd-based knowledge extraction and analysis, software security threat analysis, vulnerability identification and automated repair, the security of LLM tool-learning systems, and security risks in AIGC-generated multimodal content.</p>
+  <p>我目前是中国科学院软件研究所智能博弈重点实验室的博士后研究人员。我的研究主要聚焦于群体知识抽取与分析、面向软件安全的威胁分析、漏洞识别与自动修复、LLM 工具学习系统安全，以及 AIGC 生成多模态内容的安全风险。</p>
 </div>
 
-## Education and Appointments
+## 教育与任职
 
-- Since 2025: Postdoctoral Researcher, Institute of Software, Chinese Academy of Sciences, advised by Prof. Qing Wang
-- Since 2025: Self-Employed Researcher, SIGMIR
-- 2019-2025: Ph.D. in Software Engineering, Institute of Software, Chinese Academy of Sciences, advised by Prof. Qing Wang
-- 2015-2019: B.S. in Software Engineering, Xiamen University
+- 2025 年至今：博士后研究人员，中国科学院软件研究所，合作导师：王青研究员
+- 2025 年至今：独立研究者，SIGMIR
+- 2019-2025：软件工程博士，中国科学院软件研究所，导师：王青研究员
+- 2015-2019：软件工程学士，厦门大学
 
-## Research Interests
+## 研究方向
 
-- Crowd-based knowledge extraction and analysis
-- Software security threat analysis, vulnerability detection, and automated repair
-- Security of LLM tool-learning systems
-- Security of AIGC-generated multimodal content
+- 群体知识抽取与分析
+- 面向软件安全的威胁分析、漏洞检测与自动修复
+- LLM 工具学习系统安全
+- AIGC 生成多模态内容安全
 
-## First-Authored Publications
+## 第一作者论文
 
 1. **Ziyou Jiang**, Mingyang Li, Junjie Wang, Yuekai Huang, Jie Huang, Zhiyuan Chang, Zhaoyang Li, Qing Wang. All Changes May Have Invariant Principles: Improving Ever-Shifting Harmful Meme Detection via Design Concept Reproduction. ACL 2026 (Main, Top 15%). [[ArXiv]](https://arxiv.org/abs/2601.04567)
 2. **Ziyou Jiang**, Mingyang Li, Guowei Yang, Lin Shi, Junjie Wang, Qing Wang. VulRTex: A Reasoning-Guided Approach to Identify Vulnerabilities from Rich-Text Issue Report. TOSEM 2026. [[ArXiv]](https://arxiv.org/abs/2509.03875) [[Paper]](https://dl.acm.org/doi/10.1145/3801149)
@@ -39,7 +36,7 @@ redirect_from:
 7. Lin Shi, **Ziyou Jiang** (equal contribution), Ye Yang, Xiao Chen, Yumin Zhang, Fangwen Mu, Hanzhi Jiang, Qing Wang. ISPY: Automatic Issue-Solution Pair Extraction from Community Live Chats. ASE 2021: 142-154. ASE 2021 ACM Distinguished Paper Award. [[Paper]](https://doi.org/10.1109/ASE51524.2021.9678894)
 8. **Ziyou Jiang**, Lin Shi, Celia Chen, Jun Hu, Qing Wang. Dialogue Disentanglement in Software Engineering: How Far Are We? IJCAI 2021: 3822-3828. [[Paper]](https://www.ijcai.org/proceedings/2021/526)
 
-## Selected Co-Authored Publications
+## 合作论文精选
 
 1. Jie Huang, Junjie Wang, Xin Liao, **Ziyou Jiang**, Wenshuo Wang, Shoubin Li, Qing Wang. Generative Text-to-Image Retrieval via Hierarchical Identifiers and Semantic Internalization. ACL 2026.
 2. Jie Huang, Xin Liao, Junjie Wang, Mingyang Li, Wenshuo Wang, **Ziyou Jiang**, Shoubin Li, Qing Wang. SAGE: Synergistic Adaptive Gating of Experts for Hateful Video Detection. ACL 2026.
@@ -50,47 +47,47 @@ redirect_from:
 7. Lin Shi, Xiao Chen, Ye Yang, Hanzhi Jiang, **Ziyou Jiang**, Nan Niu, Qing Wang. A First Look at Developers' Live Chat on Gitter. ESEC/SIGSOFT FSE 2021: 391-403. [[Paper]](https://doi.org/10.1145/3468264.3468562)
 8. Lin Shi, Fangwen Mu, Yumin Zhang, Ye Yang, Junjie Chen, Xiao Chen, Hanzhi Jiang, **Ziyou Jiang**, Qing Wang. BugListener: Identifying and Synthesizing Bug Reports from Collaborative Live Chats. ICSE 2022: 299-311. [[Paper]](https://doi.org/10.1145/3510003.3510108)
 
-## Academic Service
+## 学术服务
 
-- Invited reviewer: IEEE Transactions on Software Engineering (TSE 2024), IEEE Transactions on Big Data (TBD 2024), ACM Transactions on Software Engineering and Methodology (TOSEM)
-- Conference service: AAAI 2025, ACL 2026, ASE, ICSE, and ESEC/FSE
+- 审稿服务：IEEE Transactions on Software Engineering (TSE 2024)、IEEE Transactions on Big Data (TBD 2024)、ACM Transactions on Software Engineering and Methodology (TOSEM)
+- 会议服务：AAAI 2025、ACL 2026、ASE、ICSE、ESEC/FSE
 
-## Projects
+## 项目
 
-- 2026: National-Funded Postdoctoral Researcher Program, Category C
-- 2026: China Postdoctoral Science Foundation, General Program
-- 2025: China Postdoctoral Science Foundation, International Academic Exchange Program
-- 2024: National Key Research and Development Program of China, "Security Risks in AIGC-Generated Multimodal Content," Project Secretary and Core R&D Personnel
-- 2021: Huawei Poplar Forest Fund, Core R&D Personnel
+- 2026：国家资助博士后计划-C档资助
+- 2026：中国博士后科学基金-面上项目
+- 2025：中国博士后科学基金-国（境）外学术交流项目
+- 2024：国家重点研发计划项目“生成式人工智能多模态内容安全风险”，项目秘书、核心研发人员
+- 2021：华为火花园基金，核心研发人员
 
-## Honors and Awards
+## 荣誉与奖励
 
-- 2026: Evaluation and Model Insight Award, EACL 2026
-- 2025: Third Prize, ChinaSoft 2025 National Prototype System Competition (SEAutoCMD)
-- 2025: Excellent Poster Award, ISCAS Academic Annual Conference
-- 2025: ACL 2025 SAC Highlight Award
-- 2025: Outstanding Scholarship for President of the Chinese Academy of Sciences
-- 2024: Three Good Students, University of Chinese Academy of Sciences
-- 2022: Three Good Students, University of Chinese Academy of Sciences
-- 2021: Representative Accomplishments, ISCAS Academic Annual Conference
-- 2021: ACM Distinguished Paper Award, ASE 2021
-- 2018: Hua-Bin QIU Scholarship, Xiamen University Anniversary Celebration
-- 2017: National Third Prize, Chinese University Students Service Outsourcing Innovation and Entrepreneurship Competition
-- 2017: Fujian Province Second Prize, Chinese University Students Mathematical Modeling Competition
-- 2017: Academic First-Class Scholarship, Xiamen University
-- 2017: Academic Innovation Scholarship, Xiamen University
+- 2026：EACL 2026 Evaluation and Model Insight Award
+- 2025：中国软件大会原型系统竞赛全国三等奖（SEAutoCMD）
+- 2025：中科院软件所学术年会优秀海报奖
+- 2025：ACL 2025 SAC Highlight Award
+- 2025：中国科学院院长优秀奖学金
+- 2024：中国科学院大学三好学生
+- 2022：中国科学院大学三好学生
+- 2021：中科院软件所学术年会代表性成果
+- 2021：ASE 2021 ACM Distinguished Paper Award
+- 2018：厦门大学校庆邱华炳奖学金
+- 2017：中国大学生服务外包创新创业大赛全国三等奖
+- 2017：中国大学生数学建模大赛福建省二等奖
+- 2017：厦门大学学业优秀一等奖学金
+- 2017：厦门大学学术创新奖学金
 
-## Selected Talks
+## 学术报告
 
-- 2025: ACL 2025, poster presentation of "Mimicking the Familiar: Dynamic Command Generation for Information Theft Attacks in LLM Tool-Learning System"
-- 2024: Graduate Academic Forum of the University of Chinese Academy of Sciences, poster presentation
-- 2024: ASE 2024, presentation of "PatUntrack: Automated Generating Patch Examples for Issue Reports without Tracked Insecure Code"
-- 2023: ASE 2023, presentation of "SCPatcher: Mining Crowd Security Discussions to Enrich Secure Coding Practices"
-- 2021: ChinaSoft Forum of Top Conference and Journal, online presentation
+- 2025：ACL 2025，海报展示 "Mimicking the Familiar: Dynamic Command Generation for Information Theft Attacks in LLM Tool-Learning System"
+- 2024：中国科学院大学研究生学术论坛，海报展示
+- 2024：ASE 2024，报告 "PatUntrack: Automated Generating Patch Examples for Issue Reports without Tracked Insecure Code"
+- 2023：ASE 2023，报告 "SCPatcher: Mining Crowd Security Discussions to Enrich Secure Coding Practices"
+- 2021：中国软件大会顶会顶刊论坛，线上报告
 
-## Latest News
+## 最新动态
 
-- Four papers from our group were accepted to ACL 2026, supported by the National Key Research and Development Program of China.
-- Our work on vulnerability identification from rich-text issue reports was accepted by TOSEM 2026.
-- Our team received the Third Prize in the ChinaSoft 2025 National Prototype System Competition (SEAutoCMD).
-- Our work on information-theft attacks in LLM tool-learning systems received the ACL 2025 SAC Highlight Award.
+- 我们团队共有 4 篇论文被 ACL 2026 录用，并获得国家重点研发计划项目支持。
+- 关于富文本 issue report 漏洞识别的研究已被 TOSEM 2026 录用。
+- 团队在中国软件大会 2025 原型系统竞赛中获得全国三等奖（SEAutoCMD）。
+- 关于 LLM 工具学习系统中信息窃取攻击的研究获得 ACL 2025 SAC Highlight Award。

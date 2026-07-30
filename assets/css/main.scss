@@ -39,3 +39,100 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+body {
+  background: #f5f7fa;
+}
+
+.masthead {
+  border-bottom: 1px solid #dbe3eb;
+  background: rgba(255, 255, 255, 0.96);
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.05);
+}
+
+.greedy-nav {
+  background: transparent;
+}
+
+.greedy-nav .visible-links a {
+  margin: 0 0.2rem;
+  padding: 0.65rem 0.9rem;
+  font-size: 0.95rem;
+  letter-spacing: 0.01em;
+  border-radius: 999px;
+}
+
+.greedy-nav .visible-links a:before {
+  display: none;
+}
+
+.greedy-nav .visible-links a.current,
+.greedy-nav .hidden-links a.current {
+  color: #fff;
+  background: #1f4b73;
+  box-shadow: 0 10px 24px rgba(31, 75, 115, 0.18);
+}
+
+.page {
+  margin-top: 2rem;
+}
+
+.page__title {
+  color: #102a43;
+  letter-spacing: -0.02em;
+}
+
+.page__content {
+  font-size: 1.02em;
+  line-height: 1.85;
+}
+
+.page__content h2 {
+  margin-top: 2.5rem;
+  padding-bottom: 0.45rem;
+  color: #102a43;
+  border-bottom: 1px solid #dbe3eb;
+}
+
+.page__content li {
+  margin-bottom: 0.55rem;
+}
+
+.profile-lead {
+  margin: 0 0 2rem;
+  padding: 1.4rem 1.6rem;
+  border: 1px solid #dbe3eb;
+  border-radius: 16px;
+  background: linear-gradient(135deg, #f8fbff 0%, #f4f7fb 100%);
+  box-shadow: 0 16px 36px rgba(15, 23, 42, 0.06);
+}
+
+.profile-lead p {
+  margin: 0;
+  color: #243447;
+  font-size: 1.08em;
+  line-height: 1.9;
+}
+
+.author__name {
+  color: #102a43;
+}
+
+.author__bio,
+.author__urls-wrapper {
+  color: #52606d;
+}
+
+@media (max-width: 767px) {
+  .page {
+    margin-top: 1rem;
+  }
+
+  .greedy-nav .visible-links a {
+    padding: 0.55rem 0.8rem;
+  }
+
+  .profile-lead {
+    padding: 1.1rem 1.2rem;
+  }
+}

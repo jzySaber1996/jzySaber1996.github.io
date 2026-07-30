@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ziyou Jiang / Postdoctoral Researcher"
+title                    : "Ziyou Jiang"
 title_separator          : "-"
 name                     : &name "Ziyou Jiang"
-description              : &description "personal description"
+description              : &description "Postdoctoral Researcher in Software Engineering"
 url                      : https://jzysaber1996.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jzySaber1996/jzySaber1996.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ziyou Jiang"
   avatar           : "ziyou_profile.jpg"
-  bio              : "Postdoctoral Researcher in Institute of Software, Chinese Academy of Sciences (ISCAS)"
+  bio              : "Postdoctoral Researcher, Institute of Software, Chinese Academy of Sciences (ISCAS)"
   location         : "Beijing, China"
   employer         :
   pubmed           :
