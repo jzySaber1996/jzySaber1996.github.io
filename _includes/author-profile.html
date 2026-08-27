@@ -7,6 +7,10 @@
 {% if page.lang == 'zh-CN' and author.name_zh %}
   {% assign author_name = author.name_zh %}
 {% endif %}
+{% assign author_bio = author.bio %}
+{% if page.lang == 'zh-CN' and author.bio_zh %}
+  {% assign author_bio = author.bio_zh %}
+{% endif %}
 
 <div itemscope itemtype="http://schema.org/Person">
 
@@ -20,7 +24,7 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author_name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author_bio %}<p class="author__bio">{{ author_bio }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
