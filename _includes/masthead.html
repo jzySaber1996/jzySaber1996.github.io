@@ -1,4 +1,8 @@
 {% include base_path %}
+{% assign masthead_title = site.title %}
+{% if page.lang == 'zh-CN' and site.title_zh %}
+  {% assign masthead_title = site.title_zh %}
+{% endif %}
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -6,7 +10,7 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ masthead_title }}</a></li>
           <li class="masthead__menu-item"><a href="{{ base_path }}/"{% unless page.lang == 'zh-CN' %} class="current"{% endunless %}>English</a></li>
           <li class="masthead__menu-item"><a href="{{ base_path }}/zh/"{% if page.lang == 'zh-CN' %} class="current"{% endif %}>中文</a></li>
         </ul>

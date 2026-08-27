@@ -57,6 +57,7 @@ redirect_from:
 
 ## Projects
 
+- 2026: National Natural Science Foundation of China Young Scientists Fund (Category C), Principal Investigator
 - 2026: Postdoctoral Fellowship Program and China Postdoctoral Science Foundation (C)
 - 2026: China Postdoctoral Science Foundation
 - 2025: China Postdoctoral Science Foundation, International Academic Exchange Program
