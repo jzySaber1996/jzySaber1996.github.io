@@ -67,6 +67,7 @@ redirect_from:
 ## Honors and Awards
 
 - 2026: Evaluation and Model Insight Award, EACL 2026
+- 2026: Nomination Award, CCF Software Engineering Technical Committee Doctoral Dissertation Incentive Program
 - 2025: Third Prize, ChinaSoft 2025 National Prototype System Competition (SEAutoCMD)
 - 2025: Excellent Poster Award, ISCAS Academic Annual Conference
 - 2025: ACL 2025 SAC Highlight Award
