@@ -65,6 +65,7 @@ lang: zh-CN
 
 - 2026：EACL 2026 Evaluation and Model Insight Award
 - 2026：CCF 软件工程专委博士论文激励计划提名奖
+- 2026：中科院软件所学术年会优秀海报奖
 - 2025：中国软件大会原型系统竞赛全国三等奖（SEAutoCMD）
 - 2025：中科院软件所学术年会优秀海报奖
 - 2025：ACL 2025 SAC Highlight Award
