@@ -54,6 +54,7 @@ redirect_from:
 
 - Invited reviewer: IEEE Transactions on Software Engineering (TSE 2024), IEEE Transactions on Big Data (TBD 2024), ACM Transactions on Software Engineering and Methodology (TOSEM)
 - Conference service: AAAI 2025, ACL 2026, ASE, ICSE, and ESEC/FSE
+- Area Chair: NAACL and COLING
 
 ## Projects
 

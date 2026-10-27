@@ -51,6 +51,7 @@ lang: zh-CN
 
 - 审稿服务：IEEE Transactions on Software Engineering (TSE 2024)、IEEE Transactions on Big Data (TBD 2024)、ACM Transactions on Software Engineering and Methodology (TOSEM)
 - 会议服务：AAAI 2025、ACL 2026、ASE、ICSE、ESEC/FSE
+- Area Chair：NAACL、COLING
 
 ## 项目
 
