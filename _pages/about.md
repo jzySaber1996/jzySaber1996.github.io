@@ -58,9 +58,10 @@ redirect_from:
 
 ## Projects
 
-- 2026: National Natural Science Foundation of China Young Scientists Fund (Category C), Principal Investigator
-- 2026: Postdoctoral Fellowship Program and China Postdoctoral Science Foundation (C)
-- 2026: China Postdoctoral Science Foundation
+- 2026: National Natural Science Foundation of China Young Scientists Fund (Category C, Grant No. 62602653), Principal Investigator
+- 2026: Postdoctoral Fellowship Program (Grant No. GZC20260867)
+- 2026: China Postdoctoral Science Foundation General Program (Grant No. 2026M791714)
+- 2026: Huawei Technology Cooperation Project, Project Lead and Core R&D Personnel
 - 2025: China Postdoctoral Science Foundation, International Academic Exchange Program
 - 2024: National Key Research and Development Program of China, "Security Risks in AIGC-Generated Multimodal Content," Project Secretary and Core R&D Personnel
 - 2021: Huawei Poplar Forest Fund, Core R&D Personnel
